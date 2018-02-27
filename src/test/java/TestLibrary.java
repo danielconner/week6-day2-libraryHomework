@@ -35,5 +35,5 @@ public class TestLibrary {
         assertEquals(1, library.stockCheck());
     }
 
-    
+
 }
